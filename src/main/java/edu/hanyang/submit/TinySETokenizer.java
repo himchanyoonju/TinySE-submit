@@ -5,7 +5,7 @@ import java.util.List;
 import edu.hanyang.indexer.Tokenizer;
 
 public class TinySETokenizer implements Tokenizer {
-
+//
 	public void setup() {
 	}
 
